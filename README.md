@@ -20,7 +20,7 @@ Einführung in inDesign CC2018
   - Anmelden unter [hs-mz.de/lynda](hs-mz.de/lynda)
   - [Einsteiger tutorial ca. 6 stunden](https://www.lynda.com/InDesign-tutorials/Get-started/625911/676204-4.html?org=hs-mainz.de)
   - [inDesign Formate für Fortgeschritten ca. 3 Stunden](https://www.lynda.com/InDesign-tutorials/InDesign-Styles-Depth-Revision/575947-2.html?org=hs-mainz.de)
-  - [inDesign Secrets (Fortgeschritten & Allgemeine Tipps)](https://www.lynda.com/InDesign-tutorials/InDesign-Secrets/85324-2.html?org=hs-mainz.de)
+  - [inDesign Secrets Videos (Fortgeschritten & Allgemeine Tipps)](https://www.lynda.com/InDesign-tutorials/InDesign-Secrets/85324-2.html?org=hs-mainz.de)
 - [Offizielles inDesign Handbuch von Adobe](https://helpx.adobe.com/de/indesign/user-guide.html) (überaschend Hilfreich)
 - [hilfdirselbst.ch](https://www.hilfdirselbst.ch/foren/Adobe_InDesign_Forum_4.html) (Deutsches Forum zu InDesign)
 - [indesignsecrets.com](https://indesignsecrets.com/) (Englischer Blog über inDesign)

@@ -9,7 +9,7 @@ Einführung in inDesign CC2018
 
 ## Basics
 - Neues Dokument einrichten mit mit Größe, Seiten, Spalten automatischem Textrahmen und Beschnitt
-![](Bilder/raender.png)
+![](/bilder/raender.png)
 - verschiedene Objekte auf der Zeichenfläche anlegen und über die Paletten verändern
 - Bilder und Texte in ein Dokument laden und platzieren
 - Farbpalette

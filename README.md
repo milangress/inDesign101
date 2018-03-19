@@ -7,16 +7,10 @@ Einführung in inDesign CC2018
 - Kombinieren von Bildern mit Text und grafischen Elementen
 - Exportieren von Layouts als PDFs für Druck oder Versand
 
-## Basics
-- Neues Dokument einrichten mit mit Größe, Seiten, Spalten automatischem Textrahmen und Beschnitt
-![](/bilder/raender.png)
-- verschiedene Objekte auf der Zeichenfläche anlegen und über die Paletten verändern
-- Bilder und Texte in ein Dokument laden und platzieren
-- Farbpalette
-- Objekte duplizieren
-- Objekte anordnen und über die Palette Ausrichten
-- Hilfslinien anlegen. (Mit Hilfslinien ein Raster aufbauen
-
+## Workshop:
+1. [Basics](basics/basics.md)
+2. [Mit inDesign arbeiten](arbeiten/arbeiten.md)
+3. [PDF & drucken](pdf/pdf.md)
 
 ## Typo
 

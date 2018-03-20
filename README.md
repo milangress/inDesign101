@@ -1,5 +1,6 @@
 # inDesign Intro SS18
 Einführung in inDesign CC2018
+
 *Milan Gress, Hochschule Mainz 2018*
 
 ### warum inDesign?

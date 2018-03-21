@@ -35,6 +35,6 @@ fehlt die Verknüpfung im Indesign, es kann nicht mehr gedruckt werden.**
  ![](bilder/vorlage_moneywillsoon_klein.png)
 - Die Maße: 110mm x 180mm
 
-[**Download Ordner mit Bildern**](https://github.com/milangress/inDesign101/archive/v1.0.zip)
+[**Download Ordner mit Bildern**](https://github.com/milangress/inDesign101/blob/master/1_basics/workshop/workshop_basics.zip?raw=true)
 
 Das Bild auf der linken Doppelseite ist eine Arbeit von Taryn Simon mit dem Titel: [Handbag, Louis Vuitton (Counterfeit)](https://www.artsy.net/artwork/taryn-simon-handbag-louis-vuitton-counterfeit)

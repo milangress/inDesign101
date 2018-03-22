@@ -1,11 +1,14 @@
 ## Typo
 
-- Typo Kontext-Palette
-- Zeichenpalettes
-- Absatzpalette
-- Suchen und Ersetzen
+#### Typo Kontext-Palette
 
-##### Grundlinienraster
+#### Zeichenpalette
+
+#### Absatzpalette
+
+#### Suchen und Ersetzen
+
+#### Grundlinienraster
 
 Das Grundlinienraster in inDesign hilft uns Schriftzeilen auf der Vorder- und Rückseite einer Seite oder bei Spalten auf einer gemeinsamen Grundlinie stehen bzw. ein gemeinsames Grundlinienraster einhalten.
 

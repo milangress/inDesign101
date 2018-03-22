@@ -8,9 +8,17 @@
 
 #### Zeichenpalette
 
+![](bilder/zeichen_zeilenabstand.png) : Zeilenabstand
+
 #### Absatzpalette
 
+![](bilder/abstanddavor.png) : Zeilenabstand vor dem Absatz
+
+![](bilder/abstanddanach.png) : Zeilenabstand nach dem Absatz
+
 #### Suchen und Ersetzen
+
+Öffnen mit `cmd + F`
 
 #### Grundlinienraster
 

@@ -11,6 +11,6 @@
     - *Mac:* ~ -> Library -> Application Support -> Adobe -> Color -> Settings
     - *Windows:* C:\ -> Dokumente und Einstellungen -> user -> Anwendungsdaten -> Adobe -> Color -> Settings
 5. Adobe Bridge öffnen und `Bearbeiten > Farbeinstellungen` anwählen
-6. PDFX-ready ISO coatedV2_300_abCS4_eciRGB-V2.0 auswählen und `Anwenden` klicken
-
-![](bilder/pdfx-ready_isocoated.png)
+6. PDFX-ready ISO coatedV2_300_abCS4_eciRGB-V2.0 auswählen:
+- ![](bilder/pdfx-ready_isocoated.png)
+7. und `Anwenden` klicken

@@ -30,7 +30,14 @@ In der Absatzpalette kann der Text dann ausgerichtet werden:
 - Objektformate
 
 
-### Nützlich:
+## Nützliches:
 - Schrift > Schriftart suchen…
 - Textrahmenoptionen `⌘B`
 - Story Editor `⌘Y`
+
+#### Kopieren von Schriftattributen
+1. Klicke Sie mit dem Pipette-Werkzeug ![](bilder/sampler1.png) auf den Text, der mit den Attributen formatiert ist, die du kopieren möchtest. Das Pipette-Werkzeug erscheint umgedreht und gefüllt ![](bilder/sampler2.png) Wenn du die Pipette über Text positionierst, erscheint neben der geladenen Pipette ein I-Symbol ![](bilder/sampler3.png).
+2. Wähle den zu ändernden Text mit dem Pipette-Werkzeug aus.
+Die in der Pipette geladenen Attribute werden vom markierten Text übernommen.
+3. Wenn du die Pipette leeren (![](bilder/sampler1.png)) möchtest drücke die `alt` taste
+3. Wenn du die Pipette wieder deaktivieren möchten, klicke auf ein anderes Werkzeug.

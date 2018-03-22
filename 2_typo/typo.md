@@ -1,3 +1,7 @@
+1. [Typo](#typo)
+2. [Formate](#formate)
+3. [Nützliches](#n%C3%BCtzliches)
+
 ## Typo
 
 #### Typo Kontext-Palette

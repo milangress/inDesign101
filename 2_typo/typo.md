@@ -47,6 +47,8 @@ Text in einem Rahmen kann zwischen miteinander verbundenen Rahmen fließen. Um d
 
 Die verbunden Textrahmen können mit: `Ansicht > Extras > Textverkettung einblenden` oder schneller mit: `cmd + alt + Y` visualisiert werden.
 
+Hilfe zu Textverkettung: [https://helpx.adobe.com/de/indesign/using/threading-text.html](https://helpx.adobe.com/de/indesign/using/threading-text.html)
+
 
 
 

@@ -1,5 +1,6 @@
 # inDesign Intro SS18
 Einführung in inDesign CC2018
+<img align="right" src="indesign_logo.png">
 
 *Milan Gress, Hochschule Mainz 2018*
 

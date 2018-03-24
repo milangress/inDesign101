@@ -1,13 +1,15 @@
 ## Basics
-- Neues Dokument einrichten mit mit Größe, Seiten, Spalten automatischem Textrahmen und Beschnitt:
+### Neues Dokument einrichten:
+- mit mit Größe, Seiten, Spalten automatischem Textrahmen und Beschnitt:
   - Zielmedium: Druck
   - Doppelseite ja/nein
   - Seitenformat
   - Stege = Seitenränder (Kann später über `Layout > Stege und Spalten` geändert werden)
   - Anschnitt, Standardwert: 3mm (Kann später über `Datei > Dokument einrichten` geändert werden)
 - ![](bilder/raender.png)
-- verschiedene Objekte auf der Zeichenfläche anlegen und über die Paletten verändern
-- Bilder und Texte in ein Dokument laden und platzieren
+### Werkzeug Basics
+verschiedene Objekte auf der Zeichenfläche anlegen und über die Paletten verändern
+### Bilder und Texte in ein Dokument laden und platzieren
   - einen Rechteckrahmen erstellen und Bild laden:
 `Datei > Platzieren` oder Shortcut `Cmd+D`
   - im Bildrahmen kann das Bild händisch
@@ -20,14 +22,20 @@ skaliert und positioniert werden oder über
 Die Bilder werden im Indesign-Dokument nicht eingebettet! Verändert man das
 Originalbild, verändert sich auch das platzierte Bild. Löscht man das Originalbild,
 fehlt die Verknüpfung im Indesign, es kann nicht mehr gedruckt werden.**
-- Farbpalette
+
+### Farbpalette
   - Globale Farben
-- Objekte duplizieren `Alt + Ziehen`
-- Objekte anordnen und über die Palette Ausrichten
+
+### Objekte anordnen und über die Palette Ausrichten
   - Öffnen über `Fenster > Objekt und Layout… > Ausrichten`
   - um Objekte aneinander oder an der Seite auszurichten.
-- Hilfslinien anlegen. (Mit Hilfslinien ein Raster aufbauen)
-  - [Tutorial zu Grids von Computerarts](http://mos.computerarts.co.uk/pdf/ART179_tut_indesign.pdf)
+### Hilfslinien
+- Mit Hilfslinien ein Raster aufbauen
+- [Tutorial zu Grids von Computerarts](http://mos.computerarts.co.uk/pdf/ART179_tut_indesign.pdf)
+
+## Workflow
+
+- Objekte duplizieren `Alt + Ziehen`
 
 ## Workshop
 

@@ -35,6 +35,10 @@ Das Grundlinienraster kann unter `inDesign > Voreinstellungen > Raster…` defin
 In der Absatzpalette kann der Text dann ausgerichtet werden:
 ![](bilder/grundlienienraster_anschalten.png)
 
+#### Textverkettung
+
+Text in einem Rahmen kann zwischen miteinander verbundenen Rahmen fließen. Um den Text zwischen verbundenen Textrahmen fließen zu lassen, musst du die Rahmen zunächst verbinden:
+
 
 
 

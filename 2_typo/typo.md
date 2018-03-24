@@ -16,6 +16,8 @@
 
 ![](bilder/abstanddanach.png) : Zeilenabstand nach dem Absatz
 
+---
+
 ### Suchen und Ersetzen
 
 Durch die Funktion Suchen/Ersetzen in
@@ -25,7 +27,15 @@ grafischen Eigenschaften ersetzt werden.
 
 ![](bilder/suchen-ersetzen.png)
 
-Ihr könnt das Fenster mit `cmd + F` öffnen.
+Mithilfe des `@` symbols neben dem Textfeld kannst du auch sonderzeichen ersetzen:
+
+![](bilder/suchen-ersetzen-at.png)
+
+Wie z.B könnte man alle `-` (Divis oder Viertelgeviertstrich) mit dem `—` (Gedankenstrich oder Halbgeviertstrich) ersetzen:
+
+![](bilder/suchen-ersetzen-bsp.gif)
+
+Du öffnest das Fenster mit `cmd + F`.
 
 Hilfe zu Suchen/Ersetzen: [https://helpx.adobe.com/de/indesign/using/find-change.html](https://helpx.adobe.com/de/indesign/using/find-change.html)
 

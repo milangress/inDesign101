@@ -18,7 +18,16 @@
 
 ### Suchen und Ersetzen
 
-Öffnen mit `cmd + F`
+Durch die Funktion Suchen/Ersetzen in
+InDesign können (fast) alle Objekte identifiziert
+und durch Objekte mit anderen
+grafischen Eigenschaften ersetzt werden.
+
+![](bilder/suchen-ersetzen.png)
+
+Ihr könnt das Fenster mit `cmd + F` öffnen.
+
+Hilfe zu Suchen/Ersetzen: [https://helpx.adobe.com/de/indesign/using/find-change.html](https://helpx.adobe.com/de/indesign/using/find-change.html)
 
 ### Grundlinienraster
 

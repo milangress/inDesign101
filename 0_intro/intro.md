@@ -4,7 +4,7 @@
 
 1. [Farbprofile von pdfx-ready.ch runterladen](https://pdfx-ready.ch/files/Farbprofile_ECI-IFRA_2015.zip)
 2. .icc Dateien in folgenden Ordner kopieren:
-    - *Mac:* Library -> Application Support -> Adobe -> Color -> Profiles -> Recommended
+    - *Mac:* ~ -> Library -> ColorSync -> Profiles
     - *Windows:* C:\ -> Programme -> Gemeinsame Dateien -> Adobe -> Color -> Profiles-> Recommended
 3. [Farbeinstellungen von pdfx-ready.ch runterladen](https://pdfx-ready.ch/files/PDFX-ready-Farbeinstellungen-V24_abCS4.zip)
 4. Farbeinstellungen in folgenden Ordner kopieren:

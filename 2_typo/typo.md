@@ -4,23 +4,23 @@
 
 ## Typo
 
-#### Typo Kontext-Palette
+### Typo Kontext-Palette
 
-#### Zeichenpalette
+### Zeichenpalette
 
 ![](bilder/zeichen_zeilenabstand.png) : Zeilenabstand
 
-#### Absatzpalette
+### Absatzpalette
 
 ![](bilder/abstanddavor.png) : Zeilenabstand vor dem Absatz
 
 ![](bilder/abstanddanach.png) : Zeilenabstand nach dem Absatz
 
-#### Suchen und Ersetzen
+### Suchen und Ersetzen
 
 Öffnen mit `cmd + F`
 
-#### Grundlinienraster
+### Grundlinienraster
 
 Das Grundlinienraster in inDesign hilft uns Schriftzeilen auf der Vorder- und Rückseite einer Seite oder bei Spalten auf einer gemeinsamen Grundlinie stehen bzw. ein gemeinsames Grundlinienraster einhalten.
 
@@ -35,7 +35,7 @@ Das Grundlinienraster kann unter `inDesign > Voreinstellungen > Raster…` defin
 In der Absatzpalette kann der Text dann ausgerichtet werden:
 ![](bilder/grundlienienraster_anschalten.png)
 
-#### Textverkettung
+### Textverkettung
 
 Text in einem Rahmen kann zwischen miteinander verbundenen Rahmen fließen. Um den Text zwischen verbundenen Textrahmen fließen zu lassen, musst du die Rahmen zunächst verbinden.
 
@@ -66,7 +66,7 @@ Hilfe zu Textverkettung: [https://helpx.adobe.com/de/indesign/using/threading-te
 - Textrahmenoptionen `⌘B`
 - Story Editor `⌘Y`
 
-#### Kopieren von Schriftattributen
+### Kopieren von Schriftattributen
 1. Klicke Sie mit dem Pipette-Werkzeug ![](bilder/sampler1.png) auf den Text, der mit den Attributen formatiert ist, die du kopieren möchtest. Das Pipette-Werkzeug erscheint umgedreht und gefüllt ![](bilder/sampler2.png) Wenn du die Pipette über Text positionierst, erscheint neben der geladenen Pipette ein I-Symbol ![](bilder/sampler3.png).
 2. Wähle den zu ändernden Text mit dem Pipette-Werkzeug aus.
 Die in der Pipette geladenen Attribute werden vom markierten Text übernommen.

@@ -37,7 +37,17 @@ In der Absatzpalette kann der Text dann ausgerichtet werden:
 
 #### Textverkettung
 
-Text in einem Rahmen kann zwischen miteinander verbundenen Rahmen fließen. Um den Text zwischen verbundenen Textrahmen fließen zu lassen, musst du die Rahmen zunächst verbinden:
+Text in einem Rahmen kann zwischen miteinander verbundenen Rahmen fließen. Um den Text zwischen verbundenen Textrahmen fließen zu lassen, musst du die Rahmen zunächst verbinden.
+
+1. Dazu klickst du in in das kleine Quadrat recht unten im Textfeld: (hier in rot)
+
+![](bilder/textverkettung.png)
+
+2. Klicken dann auf ein anderen Textrahmen oder ziehe wie mit dem Textwerkzeug einen neuen Rahmen auf.
+
+Die verbunden Textrahmen können mit: `Ansicht > Extras > Textverkettung einblenden` oder schneller mit: `cmd + alt + Y` visualisiert werden.
+
+
 
 
 

@@ -46,6 +46,21 @@ Hilfe: helpx.adobe.com/de/indesign/using/aligning-distributing-objects.html
 
 Tipps zum allgemeinen Ausrichten und Ordnen von Objekten in inDesign: https://www.yardo.de/tutorial/indesign/objekte-ausrichten-verteilen-und-duplizieren/
 
+### Transformieren
+
+Das Transformierenbedienfeld dient dazu, Objekte maßgenau zu positionieren (X- und Y-Achse) und deren Größe exakt einzustellen (Höhe und Breite). Das Besondern an den Eingabefeldern ist, dass diese die wichtigsten Einheiten (mm, cm, m, px, %, u.v.m.) umwandeln und Werte errechnen können (subtrahieren, addieren, dividieren, multiplizieren).
+
+![](bilder/transformieren-bsp.gif)
+
+Das Steuerungsbedienfeld in der linken oberen Ecke entspricht dem Transformieren Bedienfeld:
+
+![](bilder/steuerungsbedienfeld_ausrichten.png)
+
+Du findest das Transformieren bedienfeld unter `Fenster > Objekt und Layout >
+Transformieren`
+
+Hilfe: helpx.adobe.com/de/indesign/using/find-change.html
+
 ### Lückenwerkzeug
 
 Mit dem Lückenwerkzeug ![](bilder/gap-tool.png) kannst du die Größe einer Lücke zwischen zwei oder mehr Objekten schnell anpassen. Oder auch allgemein den negativen Raum zwischen Objekten bearbeiten.

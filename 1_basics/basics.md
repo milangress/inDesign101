@@ -26,9 +26,24 @@ fehlt die Verknüpfung im Indesign, es kann nicht mehr gedruckt werden.**
 ### Farbpalette
   - Globale Farben
 
-### Objekte anordnen und über die Palette Ausrichten
-  - Öffnen über `Fenster > Objekt und Layout… > Ausrichten`
-  - um Objekte aneinander oder an der Seite auszurichten.
+### Ausrichten
+Das „Ausrichten“ Bedienfeld dient dazu,
+alle ungeordneten Objekte wie z.B. Textfelder
+und/oder Bildrahmen schnell und
+unkompliziert an einer ihrer Kanten,
+Mittelachse, Seite u.v.m auszurichten und
+zu verteilen.
+
+Öffnen über `Fenster > Objekt und Layout… > Ausrichten`
+
+Hilfe: helpx.adobe.com/de/indesign/using/aligning-distributing-objects.html
+
+### Lückenwerkzeug
+
+Mit dem Lückenwerkzeug ![](bilder/gap-tool.png) kannst du die Größe einer Lücke zwischen zwei oder mehr Objekten schnell anpassen. 
+
+![](bilder/gap-tool-bsp.gif)
+
 ### Hilfslinien
 - Mit Hilfslinien ein Raster aufbauen
 - [Tutorial zu Grids von Computerarts](http://mos.computerarts.co.uk/pdf/ART179_tut_indesign.pdf)

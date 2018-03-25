@@ -38,9 +38,13 @@ unkompliziert an einer ihrer Kanten,
 Mittelachse, Seite u.v.m auszurichten und
 zu verteilen.
 
+![](bilder/Ausrichten-bsp.gif)
+
 Öffnen über `Fenster > Objekt und Layout… > Ausrichten`
 
 Hilfe: helpx.adobe.com/de/indesign/using/aligning-distributing-objects.html
+
+Tipps zum allgemeinen Ausrichten und Ordnen von Objekten in inDesign: https://www.yardo.de/tutorial/indesign/objekte-ausrichten-verteilen-und-duplizieren/
 
 ### Lückenwerkzeug
 

@@ -1,24 +1,28 @@
-## Basics
+## Basics & Layout
 ### Neues Dokument einrichten:
 - mit mit Größe, Seiten, Spalten automatischem Textrahmen und Beschnitt:
-  - Zielmedium: Druck
-  - Doppelseite ja/nein
-  - Seitenformat
-  - Stege = Seitenränder (Kann später über `Layout > Stege und Spalten` geändert werden)
-  - Anschnitt, Standardwert: 3mm (Kann später über `Datei > Dokument einrichten` geändert werden)
-- ![](bilder/raender.png)
+- Zielmedium: Druck
+- Doppelseite ja/nein
+- Seitenformat
+- Stege = Seitenränder (Kann später über `Layout > Stege und Spalten` geändert werden)
+- Anschnitt, Standardwert: 3mm (Kann später über `Datei > Dokument einrichten` geändert werden)
+
+![](bilder/raender.png)
+
 ### Werkzeug Basics
+
 verschiedene Objekte auf der Zeichenfläche anlegen und über die Paletten verändern
+
 ### Bilder und Texte in ein Dokument laden und platzieren
-  - einen Rechteckrahmen erstellen und Bild laden:
+- einen Rechteckrahmen erstellen und Bild laden:
 `Datei > Platzieren` oder Shortcut `Cmd+D`
-  - im Bildrahmen kann das Bild händisch
+- im Bildrahmen kann das Bild händisch
 skaliert und positioniert werden oder über
 `Objekt > Anpassen` eingepasst werden:
-  - ![](bilder/objekt-anpassen.png)
-  - Bilder können mit gedrückter `shift` Taste proportional Skaliert werden.
-  - Mit gedrückter `cmd` Taste kann Bildrahmen und Bild gleichzeitig skaliert werden.
-  - **WICHTIG:
+- ![](bilder/objekt-anpassen.png)
+- Bilder können mit gedrückter `shift` Taste proportional Skaliert werden.
+- Mit gedrückter `cmd` Taste kann Bildrahmen und Bild gleichzeitig skaliert werden.
+- **WICHTIG:
 Die Bilder werden im Indesign-Dokument nicht eingebettet! Verändert man das
 Originalbild, verändert sich auch das platzierte Bild. Löscht man das Originalbild,
 fehlt die Verknüpfung im Indesign, es kann nicht mehr gedruckt werden.**
@@ -40,7 +44,7 @@ Hilfe: helpx.adobe.com/de/indesign/using/aligning-distributing-objects.html
 
 ### Lückenwerkzeug
 
-Mit dem Lückenwerkzeug ![](bilder/gap-tool.png) kannst du die Größe einer Lücke zwischen zwei oder mehr Objekten schnell anpassen. 
+Mit dem Lückenwerkzeug ![](bilder/gap-tool.png) kannst du die Größe einer Lücke zwischen zwei oder mehr Objekten schnell anpassen.
 
 ![](bilder/gap-tool-bsp.gif)
 

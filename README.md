@@ -66,5 +66,7 @@ Einführung in inDesign CC2018
 ### Lizenz
 inDesign Tutorial lizensiert unter der MIT-Lizenz.
 
+### Good luck 💖
+
 ![](metahaven.png)
 Grafik von [Metahaven](http://metahaven.net/)

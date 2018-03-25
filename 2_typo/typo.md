@@ -69,6 +69,19 @@ Die verbunden Textrahmen können mit: `Ansicht > Extras > Textverkettung einblen
 Hilfe zu Textverkettung: [https://helpx.adobe.com/de/indesign/using/threading-text.html](https://helpx.adobe.com/de/indesign/using/threading-text.html)
 
 
+### Glyphen
+
+Das Bedienfeld Glyphen zeigt alle „Glyphen“
+bzw. Zeichen, die die ausgewählte
+Schriftfamilie enthält. Ausserdem ist es
+möglich diese zu Filtern und per Klick in
+ein Textfeld einzufügen.
+
+![](bilder/glyphen.png)
+
+zu finden unter `Schrift > Glyphen`
+
+Hilfe: helpx.adobe.com/de/indesign/using/glyphs-special-characters.html
 
 
 

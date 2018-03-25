@@ -25,6 +25,10 @@ Du findest die Musterseiten unter `Fenster > Seiten`  und dann im oberen Bereich
 Hilfe: helpx.adobe.com/de/indesign/using/master-pages.html
 
 
-### Seitenzahlen
+### Paginierung
 
 Unter dem Reiter `Schrift > Sonderzeichen einfügen > Marken` befinden sich unter Anderem die Platzhalter für Seitenzahlen. Diese fügt man per Klick in ein angelegtes Textfeld ein und InDesign generiert automatisch die gewählte Seitenzahl. Natürlich kann man diese auch im gleichen Umfang wie Text formatieren. Besonders effektiv ist dieses Feature in Kombination mit Musterseiten.
+
+Hilfe: https://helpx.adobe.com/de/indesign/using/layout-design-9.html
+
+Tutorial zu Seitenzahlen in inDesign: https://www.yardo.de/tutorial/indesign/gestaltung-und-anlegenvon-seitennummerierungen/

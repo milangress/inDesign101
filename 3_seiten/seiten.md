@@ -8,3 +8,17 @@
 - Automatische Seitenzahl
 - Grundlinienraster einstellen und anwenden
 - Objekte an Hilfslinien ausrichten
+
+### Musterseiten
+
+Eine Mustervorlage ist wie ein Hintergrund, den man mühelos auf zahlreiche Seiten anwenden kann. Objekte auf einer Mustervorlage erscheinen auf allen Seiten, auf denen die Vorlage angewendet wird. Änderungen daran werden automatisch auf die zugehörigen Seiten angewendet. Sie enthalten meist Logos, Seitenzahlen, Kopfzeilen und Fußzeilen.
+
+![](bilder/musterseiten.png)
+
+Objekte, die auf der Musterseite liegen sind normalerweise nicht zu bearbeiten. Mit `cmd + shift + Mausklick auf das Objekt` kann die verbindung zur Musterseite aufgelöst werden und die Objekte bearbeitet werden:
+
+![](bilder/musterseite-bearbeiten.gif)
+
+Du findest die Musterseiten unter `Fenster > Seiten`  und dann im oberen Bereich des Bedienfelds
+
+Hilfe: helpx.adobe.com/de/indesign/using/master-pages.html

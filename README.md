@@ -1,4 +1,4 @@
-# inDesign Intro SS18
+# inDesign Intro SS18 🔥
 Einführung in inDesign CC2018
 <img align="right" src="indesign_logo.png">
 

@@ -9,6 +9,7 @@
 - Grundlinienraster einstellen und anwenden
 - Objekte an Hilfslinien ausrichten
 
+
 ### Musterseiten
 
 Eine Mustervorlage ist wie ein Hintergrund, den man mühelos auf zahlreiche Seiten anwenden kann. Objekte auf einer Mustervorlage erscheinen auf allen Seiten, auf denen die Vorlage angewendet wird. Änderungen daran werden automatisch auf die zugehörigen Seiten angewendet. Sie enthalten meist Logos, Seitenzahlen, Kopfzeilen und Fußzeilen.
@@ -22,3 +23,8 @@ Objekte, die auf der Musterseite liegen sind normalerweise nicht zu bearbeiten. 
 Du findest die Musterseiten unter `Fenster > Seiten`  und dann im oberen Bereich des Bedienfelds
 
 Hilfe: helpx.adobe.com/de/indesign/using/master-pages.html
+
+
+### Seitenzahlen
+
+Unter dem Reiter `Schrift > Sonderzeichen einfügen > Marken` befinden sich unter Anderem die Platzhalter für Seitenzahlen. Diese fügt man per Klick in ein angelegtes Textfeld ein und InDesign generiert automatisch die gewählte Seitenzahl. Natürlich kann man diese auch im gleichen Umfang wie Text formatieren. Besonders effektiv ist dieses Feature in Kombination mit Musterseiten.

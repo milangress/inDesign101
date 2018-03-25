@@ -44,9 +44,11 @@ Hilfe: helpx.adobe.com/de/indesign/using/aligning-distributing-objects.html
 
 ### Lückenwerkzeug
 
-Mit dem Lückenwerkzeug ![](bilder/gap-tool.png) kannst du die Größe einer Lücke zwischen zwei oder mehr Objekten schnell anpassen.
+Mit dem Lückenwerkzeug ![](bilder/gap-tool.png) kannst du die Größe einer Lücke zwischen zwei oder mehr Objekten schnell anpassen. Oder auch allgemein den negativen Raum zwischen Objekten bearbeiten.
 
 ![](bilder/gap-tool-bsp.gif)
+
+Hilfe: https://helpx.adobe.com/de/indesign/using/aligning-distributing-objects.html#align_objects_using_the_gap_tool
 
 ### Hilfslinien
 - Mit Hilfslinien ein Raster aufbauen

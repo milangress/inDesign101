@@ -16,7 +16,8 @@ Einführung in inDesign CC2018
 3. [Seiten](3_seiten/seiten.md)
 4. [PDF & drucken](4_pdf/pdf.md)
 
-- [Download Workshop ](https://github.com/milangress/inDesign101/blob/master/6_workshop/workshop_final.zip?raw=true)
+- [Download Workshop 2](https://github.com/milangress/inDesign101/blob/master/5_workshop/workshop-2_files.zip?raw=true)
+- [Download Workshop 3 ](https://github.com/milangress/inDesign101/blob/master/6_workshop/workshop_final.zip?raw=true)
 
 
 ## Wichtige shortcuts:
